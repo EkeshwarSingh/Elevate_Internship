@@ -17,7 +17,7 @@ This repository contains all internship tasks completed during the Elevate Labs 
 | Task | Description | Status |
 |------|-------------|--------|
 | Task 1 | Data Cleaning & Preprocessing | ✅ |
-| Task 2 | Coming Soon | ⏳ |
+| Task 2 | Visualization--> Power BI | ✅ |
 | Task 3 | Coming Soon | ⏳ |
 | Task 4 | Coming Soon | ⏳ |
 | Task 5 | Coming Soon | ⏳ |
