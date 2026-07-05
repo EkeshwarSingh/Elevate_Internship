@@ -1,0 +1,116 @@
+product_id,product_name,category,price,stock
+1,Indomie Fried Noodles,Food,2500.00,500
+2,Sari Roti Chocolate Bread,Food,8500.00,300
+3,Rojolele Rice 5kg,Food,65000.00,200
+4,Bimoli Cooking Oil 1L,Food,28000.00,150
+5,Gulaku Granulated Sugar 1kg,Food,15000.00,400
+6,Sariwangi Tea,Beverages,12000.00,600
+7,Kapal Api Coffee,Beverages,18000.00,350
+8,Aqua Bottled Water 600ml,Beverages,3000.00,1000
+9,Indomilk Milk 200ml,Beverages,4500.00,700
+10,Lemon Squash,Beverages,5500.00,250
+11,Lifebuoy Soap,Personal Care,6000.00,500
+12,Sunsilk Shampoo,Personal Care,12000.00,400
+13,Pepsodent Toothpaste,Personal Care,9000.00,450
+14,Kotex Sanitary Pads,Personal Care,25000.00,300
+15,Rexona Deodorant,Personal Care,16000.00,200
+16,MamyPoko Diapers,Baby,85000.00,150
+17,SGM 1+ Milk Formula 400g,Baby,55000.00,250
+18,Zwitsal Baby Oil,Baby,22000.00,300
+19,Mitu Baby Wipes,Baby,18000.00,400
+20,Cerelac Baby Porridge,Baby,28000.00,200
+21,Sampoerna Mild (Cigarettes),Tobacco,28000.00,100
+22,Gudang Garam Surya (Cigarettes),Tobacco,26000.00,120
+23,Djarum Super (Cigarettes),Tobacco,24000.00,180
+24,LA Light (Cigarettes),Tobacco,23000.00,150
+25,Surya Pro Mild (Cigarettes),Tobacco,30000.00,90
+26,Sidu Notebook,Stationery,4000.00,500
+27,Pilot Pen,Stationery,6000.00,600
+28,Faber Castell Pencil,Stationery,3500.00,700
+29,Kenko Eraser,Stationery,2000.00,800
+30,Ruler 30cm,Stationery,5000.00,400
+31,Sania Rice 5kg,Food,68000.00,180
+32,Free-Range Chicken Eggs,Food,3500.00,1000
+33,Broiler Chicken/kg,Food,38000.00,200
+34,Catfish/kg,Food,32000.00,150
+35,Tiger Prawn/kg,Food,120000.00,80
+36,Bango Soy Sauce,Food,14000.00,400
+37,ABC Chili Sauce,Food,9000.00,500
+38,Soto Seasoning Mix,Food,7000.00,300
+39,Segitiga Wheat Flour,Food,12000.00,250
+40,Blue Band Margarine,Food,16000.00,200
+41,Sosro Bottled Tea,Beverages,5000.00,900
+42,Fruit Tea,Beverages,5500.00,850
+43,Pocari Sweat,Beverages,8000.00,600
+44,Le Minerale Water,Beverages,3500.00,1200
+45,Yakult,Beverages,8500.00,300
+46,Clear Shampoo,Personal Care,13000.00,350
+47,Giv Soap,Personal Care,5500.00,450
+48,Wardah Lipstick,Personal Care,32000.00,150
+49,Scarlett Face Wash,Personal Care,28000.00,200
+50,Wardah Face Mask,Personal Care,22000.00,180
+51,Merries Diapers,Baby,92000.00,120
+52,Frisian Flag 1-2-3 Milk Formula,Baby,62000.00,220
+53,Huggies Baby Diapers,Baby,88000.00,130
+54,Sleek Wet Wipes,Baby,16000.00,420
+55,Milna Baby Biscuits,Baby,25000.00,210
+56,Sampoerna Kretek (Cigarettes),Tobacco,25000.00,110
+57,Class Mild (Cigarettes),Tobacco,27000.00,100
+58,Class Mild Menthol (Cigarettes),Tobacco,27500.00,95
+59,Gudang Garam Signature (Cigarettes),Tobacco,29000.00,80
+60,U Mild (Cigarettes),Tobacco,22000.00,140
+61,Cardboard Drawing Book,Stationery,12000.00,300
+62,Snowman Marker,Stationery,8000.00,400
+63,Stabilo Highlighter,Stationery,10000.00,350
+64,Uhu Glue,Stationery,15000.00,250
+65,Fiskars Scissors,Stationery,28000.00,180
+66,Pandan Wangi Rice 5kg,Food,72000.00,160
+67,Beef/kg,Food,120000.00,100
+68,Regular Chicken Eggs,Food,2800.00,1200
+69,White Tofu/pcs,Food,2000.00,800
+70,Tempeh (1 block),Food,5000.00,600
+71,ABC Soy Sauce,Food,13000.00,420
+72,Del Monte Tomato Sauce,Food,12000.00,380
+73,Rendang Seasoning Mix,Food,8000.00,280
+74,Cornstarch,Food,10000.00,300
+75,Palmia Margarine,Food,15000.00,230
+76,Nescafe Classic,Beverages,16000.00,550
+77,Teh Kotak (Boxed Tea),Beverages,4500.00,950
+78,Zamzam Water 250ml,Beverages,7000.00,200
+79,Coca-Cola 240ml,Beverages,6000.00,700
+80,Sprite 240ml,Beverages,6000.00,700
+81,Dove Shampoo,Personal Care,14000.00,330
+82,Cussons Baby Soap,Personal Care,7000.00,480
+83,Wardah Loose Powder,Personal Care,35000.00,170
+84,Somethinc Micellar Water,Personal Care,45000.00,120
+85,Emina Sheet Mask,Personal Care,12000.00,250
+86,Lovies Diapers,Baby,80000.00,140
+87,Dancow 1+ Milk Formula 400g,Baby,58000.00,240
+88,Cap Lang Telon Oil,Baby,25000.00,280
+89,Cussons Baby Cream,Baby,20000.00,310
+90,Nestle Baby Porridge,Baby,30000.00,190
+91,Sampoerna Hijau (Cigarettes),Tobacco,24000.00,130
+92,Gudang Garam Filter (Cigarettes),Tobacco,25500.00,105
+93,Djarum Coklat (Cigarettes),Tobacco,23000.00,160
+94,A Mild White (Cigarettes),Tobacco,26000.00,90
+95,Starmild Blue (Cigarettes),Tobacco,23500.00,125
+96,Kiky Notebook,Stationery,3500.00,550
+97,Epson Printer Ink,Stationery,85000.00,80
+98,3M Sticky Notes,Stationery,18000.00,220
+99,HVS Paper (1 ream),Stationery,50000.00,300
+100,Kiky Plastic Folder,Stationery,7000.00,420
+101,Teh Pucuk Harum (Bottled Tea),Beverages,4000.00,1000
+102,Kuku Bima Ginseng (Energy Drink),Beverages,6500.00,400
+103,Bear Brand (Sterilized Milk),Beverages,10000.00,350
+104,Ultra Milk (Pure Milk),Beverages,12000.00,500
+105,Cimory Yoghurt,Beverages,15000.00,280
+106,Head & Shoulders Shampoo,Personal Care,15000.00,320
+107,Emina Facial Wash,Personal Care,24000.00,200
+108,Acnes Moisturizer,Personal Care,18000.00,230
+109,Scarlett Toner,Personal Care,32000.00,180
+110,Wardah Sunscreen,Personal Care,42000.00,150
+111,Drypers Diapers,Baby,82000.00,160
+112,Bebelac Gold Milk Formula,Baby,180000.00,100
+113,Mitu Baby Cotton,Baby,15000.00,380
+114,Pure Baby Oil,Baby,21000.00,290
+115,Zee Biscuits,Baby,27000.00,195
