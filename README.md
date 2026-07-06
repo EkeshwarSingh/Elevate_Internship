@@ -20,7 +20,7 @@ This repository contains all internship tasks completed during the Elevate Labs 
 | Task 2 | Visualization--> Power BI | ✅ |
 | Task 3 |  SQL for Data Analysis | ✅ |
 | Task 4 |  Dashboard Design | ✅ |
-| Task 5 | Coming Soon | ⏳ |
+| Task 5 | Exploratory Data Analysis (EDA) | ✅ |
 
 ## Author
 
