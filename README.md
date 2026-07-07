@@ -21,6 +21,8 @@ This repository contains all internship tasks completed during the Elevate Labs 
 | Task 3 |  SQL for Data Analysis | ✅ |
 | Task 4 |  Dashboard Design | ✅ |
 | Task 5 | Exploratory Data Analysis (EDA) | ✅ |
+| Task 6 | SQL sales analysis | ✅ |
+
 
 ## Author
 
